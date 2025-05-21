@@ -1,2 +1,2 @@
-# wiltinho
-atividade referente a aula
+# Matematica-II-3C
+Repositório das aulas de Matemática II.
